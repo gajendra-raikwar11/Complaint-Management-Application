@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduResolve - College Complaint Management System",
+  "description": "A comprehensive college complaint management portal featuring AI-powered response suggestions, real-time status tracking, and administrative dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
